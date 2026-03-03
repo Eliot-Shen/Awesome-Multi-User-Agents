@@ -60,7 +60,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | Name             | Year | Link                                                                         | Notes |
 | ---------------- | ---- | ---------------------------------------------------------------------------- | ----- |
 | MUIR             | 2026 | [GitHub](https://github.com/Eliot-Shen/GroupGPT) |       |
-| Discord Unveiled | 2025 | [HuggingFace](https://huggingface.co/datasets/fvdfs41/Discord-Unveiled)      |       |
+| Discord Unveiled | 2025 | [HuggingFace](https://huggingface.co/datasets/fvdfs41/Discord-Unveiled)      | From [Paper](https://arxiv.org/abs/2502.00627)  |
 
 ### Industry Progress
 
