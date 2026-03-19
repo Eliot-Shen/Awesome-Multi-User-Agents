@@ -74,7 +74,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | OpenAI                  | ChatGPT (Web Group Chat Feature) | Web                        |                                 |
 | ByteDance               | TikTok Group Interaction Agents  | TikTok                     |                                 |
 | Tencent                 | Yuanbao Group AI Assistant       | Yuanbao App                |                                 |
-| Continua                | Continua                         | Continua & Discord         | [Link](https://continua.ai/)    |
+| Continua                | Continua                         | SMS & iMessage & Discord   | [Link](https://continua.ai/)    |
 | Chord                   | Chord                            | Chord APP                  | [Link](https://www.chord.chat/) |
 | ClawedBot (Open-source) | ClawedBot                        | WhatsApp, Telegram, Feishu |                                 |
 
