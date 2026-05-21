@@ -64,12 +64,13 @@ Please feel free to create a pull request to add papers or edit any informations
 | [Conceptual Framework for Group Dynamics Modeling from Group Chat Interactions](https://dl.acm.org/doi/10.1145/3708319.3733682)                                                                                                                                                                                         |    UMAP    | 2025 |                              |            |                                                 |
 | [Beyond Individual UX: Defining Group Experience(GX) as a New Paradigm for Group-centered AI](https://dl.acm.org/doi/full/10.1145/3715668.3736348)                                                                                                                                                                                         |    DIS    | 2025 |                              |            |                                                 |
 
-### Datasets
+### Benchmarks
 
 | Name             | Year | Link                                                                         | Notes |
 | ---------------- | ---- | ---------------------------------------------------------------------------- | ----- |
-| MUIR             | 2026 | [GitHub](https://github.com/Eliot-Shen/GroupGPT) |       |
-| Discord Unveiled | 2025 | [HuggingFace](https://huggingface.co/datasets/fvdfs41/Discord-Unveiled)      | From [Paper](https://arxiv.org/abs/2502.00627)  |
+| MUIR             | 2026 | [GitHub](https://github.com/Eliot-Shen/GroupGPT) |    From [Paper](https://arxiv.org/abs/2603.01059)   |
+| SocialMemBench   | 2026 | [HuggingFace](https://huggingface.co/datasets/anon4data/socialmembench)      | From [Paper](https://arxiv.org/abs/2605.17789)  |
+
 
 ### Industry Progress
 
