@@ -70,7 +70,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | ---------------- | ---- | ---------------------------------------------------------------------------- | ----- |
 | MUIR             | 2026 | [GitHub](https://github.com/Eliot-Shen/GroupGPT) |    From [Paper](https://arxiv.org/abs/2603.01059)   |
 | SocialMemBench   | 2026 | [HuggingFace](https://huggingface.co/datasets/anon4data/socialmembench)      | From [Paper](https://arxiv.org/abs/2605.17789)  |
-
+| social-ai-ambient-bench-2026   | 2026 | [HuggingFace](https://huggingface.co/datasets/text-ai/social-ai-ambient-bench)      |   |
 
 ### Industry Progress
 
